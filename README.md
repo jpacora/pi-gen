@@ -1,6 +1,6 @@
-# pi-gen
+# C.ERBER.US OS Image Builder (pi-gen)
 
-_Tool used to create the raspberrypi.org Raspbian images_
+_Tool used to create the C.ERBER.US OS (based on raspbian) images_
 
 
 ## Dependencies
